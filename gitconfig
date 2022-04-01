@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raphael.perrollier@gmail.com
+	name = Raphael Perrollier
